@@ -1,4 +1,4 @@
-// FLOREA LARISA-ELENA 313CA
+// COPYRIGHT: Larisa Florea
 
 #include "image_editor.h"
 

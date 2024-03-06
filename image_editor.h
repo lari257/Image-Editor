@@ -1,3 +1,5 @@
+// COPYRIGHT: Larisa Florea
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

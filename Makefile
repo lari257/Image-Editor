@@ -1,3 +1,4 @@
+// COPYRIGHT: Larisa Florea
 
 # compiler setup
 CC = gcc
